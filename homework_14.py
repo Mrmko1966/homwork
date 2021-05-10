@@ -6,24 +6,7 @@
 #  a method which returns the highest 3 values in a dictionary
 # a method which presents the dictionary
 #from collections import defaultdict, Counter
-# class Dict_from_string:
-# 	def __init__(self, name):
-		
-# 		self.name = name
-# 		print(self.name)
-# 	# def hh(self):
 
-# 	# 	my_dict = {}	
-# 	# 	for key in self.name:
-# 	# 		my_dict[key] = my_dict.get(key, 0) + 1
-# 	# def my_dict_duplicate_values():
-
-
-# 	# 	return my_dict
-# 	# def my_dict_highest_3_values():
-# 	# 	pass
-# 	# 	return
-# print(Dict_from_string("Pythons"))
 import random
 class Str_dict:
 	"""docstring for Str_dict"""
